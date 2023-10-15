@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yoga App</string>
+    <string name="placeholder_search">Search</string>
+
+    <string name="ex1_pushUps">Push Ups</string>
+    <string name="ex2">Lat Pull Down</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="favorite_collections">Favorite Collections\n</string>
+    <string name="bottom_navigation_home">Home\n</string>
+    <string name="bottom_navigation_profile">Profile\n</string>
+</resources>
